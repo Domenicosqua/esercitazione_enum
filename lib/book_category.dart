@@ -1,0 +1,15 @@
+enum BookCategory {
+  Romanzo,
+  Storico,
+  Drammatico,
+  Epistolare,
+  Poesia,
+  Tragedia,
+  Giallo,
+  Thriller,
+  Fantasy,
+  Bambini,
+  Avventura,
+  Comico,
+  Barzellette,
+}
